@@ -1,0 +1,24 @@
+{
+   "shipping_methods":[
+      {
+         "id":1,
+         "title":"Dummy 50",
+         "price":50
+      },
+      {
+         "id":2,
+         "title":"Dummy 100",
+         "price":100
+      }
+   ],
+   "product_images":[
+      {
+         "sku":101,
+         "url":"https://miro.medium.com/max/512/1*WwfTNBUSD2L4jQpbt8984w.jpeg"
+      },
+      {
+         "sku":102,
+         "url":"https://www.pngarts.com/files/5/Batman-Fortnite-Free-PNG-Image.png"
+      }
+   ]
+}
